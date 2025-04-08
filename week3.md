@@ -198,7 +198,7 @@ INNER 조인
 ### 1-3. 
 ![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-2.PNG)
 ```
-RIGHT 조인인
+RIGHT 조인
 ```
 
 ### 🎉 수고하셨습니다.
